@@ -1,0 +1,14 @@
+Package: NeonOSForCydia.deb
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kiddo
+Depends: Snowboard
+Filename: /NeonOSForCydia.deb
+Size: 11467028
+MD5sum: 69761a547f3d1656ce02f8bfd1a71248
+SHA1: 4e4151494bdcf304c272182de513de0e8399fb5e
+SHA256: 90b9728c51d2a388131dd083aa72f2763da89254a4b820a5b7580a6924a34cb4
+Section: Themes
+Description: NeonOS best Theme no cap
+Author: Kiddo
+Name: NeonOS
