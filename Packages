@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: Kiddo
 Filename: /NeonOSForCydia.deb
 Size: 11467028
-MD5sum: 69761a547f3d1656ce02f8bfd1a71248
-SHA1: 4e4151494bdcf304c272182de513de0e8399fb5e
-SHA256: 90b9728c51d2a388131dd083aa72f2763da89254a4b820a5b7580a6924a34cb4
+MD5sum: 645a9596621683312475d40f860d811a
+SHA1: 3f0a25a925ca8c493c12a236218ada356b96e371
+SHA256: 7f37c0790454850355d5cff367e28cc7113c39df02f79b02d4b0c44340024397
 Section: Themes
 Description: NeonOS best Theme no cap
 Author: Kiddo
