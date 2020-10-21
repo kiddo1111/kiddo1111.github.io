@@ -2,7 +2,6 @@ Package: NeonOSForCydia.deb
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Kiddo
-Depends: Snowboard
 Filename: /NeonOSForCydia.deb
 Size: 11467028
 MD5sum: 69761a547f3d1656ce02f8bfd1a71248
